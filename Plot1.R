@@ -1,7 +1,5 @@
 
 # Plot 1 - Exploratory Data Analysis assignment
-# -------------------------------
-
 # Loading household power consumption data
 power_data <- read.table(
   file.choose(),
