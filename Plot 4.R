@@ -1,4 +1,4 @@
-# Plot 4 - SAFE VERSION
+# Plot 4 - 
 
 # Selecting file manually
 f <- file.choose()
